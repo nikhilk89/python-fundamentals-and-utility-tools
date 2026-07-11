@@ -29,5 +29,5 @@ A collection of core Python utilities and Object-Oriented Programming (OOP) prac
 ### 🚀 How to Run
 1. Clone this repository:
 ```bash
-git clone [https://github.com/nikhilk89/python-fundamentals-and-utility-tools.git](https://github.com/nikhilk89/python-fundamentals-and-utility-tools.git)
+git clone https://github.com/nikhilk89/python-fundamentals-and-utility-tools.git
 
