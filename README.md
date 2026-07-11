@@ -30,4 +30,10 @@ A collection of core Python utilities and Object-Oriented Programming (OOP) prac
 1. Clone this repository:
 ```bash
 git clone https://github.com/nikhilk89/python-fundamentals-and-utility-tools.git
+```
+
+2. Run any module directly via terminal:
+```bash
+python atm_simulator.py
+```
 
